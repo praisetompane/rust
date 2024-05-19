@@ -1,0 +1,3 @@
+rustup doc: open documentation
+cargo run: build and run app
+cargo add {package_name}: add dependency with name package_name
